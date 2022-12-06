@@ -2,6 +2,7 @@
   "name": "featured",
   "version": "1.0.0",
   "description": "Custom template for react native",
+  "repository": "",
   "author": "Vishal Singh",
   "license": "MIT"
 }
