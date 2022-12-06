@@ -2,7 +2,7 @@
   "name": "featured",
   "version": "1.0.0",
   "description": "Custom template for react native",
-  "repository": "",
+  "repository": "git@github.com:vishal-affinsys/featured.git",
   "author": "Vishal Singh",
   "license": "MIT"
 }
