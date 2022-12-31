@@ -1,5 +1,5 @@
 import React from 'react';
-import {HomeScreen} from './Screens';
+import {HomeScreen} from './Src/Screens';
 import {NavigationContainer} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import {Provider} from 'react-redux';
